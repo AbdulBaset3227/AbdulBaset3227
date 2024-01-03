@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **AbdulBaset3227/AbdulBaset3227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 -📫 Reach me at: ... shaikhabdulbaset@outlook.com
 -😄 Pronouns: ...He/Him
 -⚡ Fun fact: ...To find me at linkedin, facebook, twitter, github, stackoverflow platform search "AbdulBaset3227 <platform_name>"
---!>
