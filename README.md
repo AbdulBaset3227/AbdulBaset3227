@@ -5,12 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on HTML,CSS.
-- 🌱 I’m currently learning JavaScript.
-- 👯 I’m looking to collaborate on HTML,CSS.
-- 🤔 I’m looking for help with 
-- 💬 Ask me about anything.
-- 📫 How to reach me: You can reach me on
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on ...CSS
+🌱 I’m currently learning ... Javascript
+👯 I’m looking to collaborate on ...CSS
+🤔 I’m looking for help with ...Open source countribution
+💬 Ask me about ...Anything
+📫 Reach me at: ... shaikhabdulbaset@outlook.com
+😄 Pronouns: ...He/Him
+⚡ Fun fact: ...To find me at linkedin, facebook, twitter, github, stackoverflow platform search "AbdulBaset3227 <platform_name>"
