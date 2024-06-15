@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 
--🔭 I’m currently working on ...CSS
+-🔭 I’m currently working on ... Web Development (frontend)
 
 -🌱 I’m currently learning ... Javascript
 
 -👯 I’m looking to collaborate on ...CSS
 
--🤔 I’m looking for help with ...Open source countribution
+-🤔 I’m looking for help with ...Open source contribution
 
 -💬 Ask me about ...Anything
 
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 -😄 Pronouns: ...He/Him
 
--⚡ Fun fact: ...To find me at linkedin, facebook, twitter, github, stackoverflow platform search "AbdulBaset3227 <platform_name>"
+-⚡ Fun fact: ...To find me on Linked, Facebook, Twitter, GitHub, or StackOverflow platform search "AbdulBaset3227 <platform_name>"
